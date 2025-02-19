@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm an aerospace engineering student interested in structures, fluids, mechanics, and code! 
 <!--
 **leogcam/leogcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
